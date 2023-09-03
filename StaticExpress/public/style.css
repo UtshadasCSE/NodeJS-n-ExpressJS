@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  color: #fff;
+  text-align: center;
+  background-color: salmon;
+}
+.container {
+  margin: auto;
+  width: 40%;
+}
